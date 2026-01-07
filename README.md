@@ -15,12 +15,11 @@
 ---
 
 ### 📊 GitHub Stats
-<div>
-![Followers](https://img.shields.io/github/followers/rsantanadml?style=for-the-badge&logo=github&logoColor=white)
-![Repositories](https://img.shields.io/github/repo-count/rsantanadml?style=for-the-badge&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/rsantanadml?style=for-the-badge&logo=github&logoColor=white)
+<div style="display:flex; justify-content:center; gap:10px; flex-wrap: wrap;">
+<img alt="Followers" src="https://img.shields.io/github/followers/rsantanadml?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Repositories" src="https://img.shields.io/github/repo-count/rsantanadml?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/rsantanadml?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-
 
 ---
 
