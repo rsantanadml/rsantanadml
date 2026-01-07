@@ -13,7 +13,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Responsive Design" src="https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=responsive&logoColor=white"/>
   <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -45,7 +44,7 @@
 ---
 
 <div style="margin-top: 30px; color: #666; font-size: 0.9em;">
-  <p>📍 São Paulo, Brazil • 📅 Available for new opportunities</p>
+  <p>📍 London, UK • 📅 Available for new opportunities</p>
   <p>✨ "Transforming ideas into impactful digital experiences"</p>
 </div>
 
