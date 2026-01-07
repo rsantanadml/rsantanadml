@@ -1,24 +1,36 @@
-## Bem-vindo(a) ao perfil do Rafael 😁
+# 👋 Hi, I'm Rafael Santana
 
- <div>
-   <a href="https://github.comrsantanadml/">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rsantanadml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsantanadml&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://instagram.com/rsantanadml" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/rafaelsantanadml" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "rafaelsantana0840@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaelsantanadml/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+![Banner](https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=1350&q=80)
+
+I'm a **Frontend Developer** passionate about building beautiful and interactive web experiences.  
+I love **JavaScript, React, and clean design**.
+
+---
+
+## 💻 Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+---
+
+## 📊 GitHub Stats
+
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelLima&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafaelsantanadml/)
+- 🔗 [Portfolio](https://your-portfolio.com)
+- 🔗 [Instagram](https://www.instagram.com/rsantanadev?igsh=cTB2eDU1ZzlrNnE%3D&utm_source=qr)
+- ✉️ rafaelsantana0840@email.com
+
+---
+
+> “Life’s too short to use ugly websites” 😄
+
