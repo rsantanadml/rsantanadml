@@ -2,11 +2,6 @@
 
 # 👋 Hi, I'm Rafael Santana
 
-### Frontend Developer | React & JavaScript | 
-Hi! I'm Rafael, a frontend developer passionate about building **interactive, responsive, and visually appealing web apps**.  
-I love turning **designs into clean code**.
-
----
 
 ### 💻 Skills
 <div>
@@ -21,10 +16,11 @@ I love turning **designs into clean code**.
 
 ### 📊 GitHub Stats
 <div>
-<img alt="Followers" src="https://img.shields.io/github/followers/rsantanadml?style=for-the-badge&logo=github&label=Followers"/>
-<img alt="Repositories" src="https://img.shields.io/badge/Repositories-0-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Stars" src="https://img.shields.io/github/stars/rsantanadml?style=for-the-badge&logo=github&label=Stars"/>
+![Followers](https://img.shields.io/github/followers/rsantanadml?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/github/repo-count/rsantanadml?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/github/stars/rsantanadml?style=for-the-badge&logo=github&logoColor=white)
 </div>
+
 
 ---
 
@@ -36,7 +32,7 @@ I love turning **designs into clean code**.
 <a href="https://your-portfolio.com">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-<a href="[https://www.instagram.com/your-instagram/](https://www.instagram.com/rsantanadev?igsh=cTB2eDU1ZzlrNnE%3D&utm_source=qr)">
+<a href="https://www.instagram.com/rsantanadev/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 </div>
