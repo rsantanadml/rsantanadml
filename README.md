@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Rafael Santana
 
-![Banner](https://images.unsplash.com/photo-1517433456452-f9633a875f6f?auto=format&fit=crop&w=1350&q=80)
-
-I'm a **Frontend Developer** passionate about building beautiful and interactive web experiences.  
-I love **JavaScript, React, and clean design**.
+### Frontend Developer | React & JavaScript Enthusiast |
 
 ---
 
@@ -19,18 +16,15 @@ I love **JavaScript, React, and clean design**.
 
 ## 📊 GitHub Stats
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RafaelLima&show_icons=true&theme=radical)
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafaelsantana&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Contact
+## 🌐 Connect with me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rafaelsantanadml/)
-- 🔗 [Portfolio](https://your-portfolio.com)
-- 🔗 [Instagram](https://www.instagram.com/rsantanadev?igsh=cTB2eDU1ZzlrNnE%3D&utm_source=qr)
-- ✉️ rafaelsantana0840@email.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelsantanadml/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rsantanadev?igsh=cTB2eDU1ZzlrNnE%3D&utm_source=qr)
 
 ---
-
-> “Life’s too short to use ugly websites” 😄
 
