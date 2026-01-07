@@ -14,10 +14,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Static Badges)
 
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsantanadml&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsantanadml&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Followers](https://img.shields.io/github/followers/rsantanadml?style=flat-square)
+![GitHub Repos](https://img.shields.io/github/public-repos/rsantanadml?style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/rsantanadml?style=flat-square)
+![GitHub Issues](https://img.shields.io/github/issues/rsantanadml?style=flat-square)
 
 ---
 
