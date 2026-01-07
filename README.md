@@ -2,6 +2,10 @@
 
 # 👋 Hi, I'm Rafael Santana
 
+### 💼 Open For
+- Frontend Developer roles  
+- Freelance projects or collaborations  
+
 
 ### 💻 Skills
 <div>
@@ -17,7 +21,6 @@
 ### 📊 GitHub Stats
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap: wrap;">
 <img alt="Followers" src="https://img.shields.io/github/followers/rsantanadml?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Repositories" src="https://img.shields.io/github/repo-count/rsantanadml?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Stars" src="https://img.shields.io/github/stars/rsantanadml?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
@@ -25,11 +28,11 @@
 
 ### 🌐 Connect with me
 <div>
+  <a href="https://your-portfolio.com">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/rafaelsantanadml/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://your-portfolio.com">
-  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/rsantanadev/">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
