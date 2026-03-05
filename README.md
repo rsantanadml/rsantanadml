@@ -30,7 +30,7 @@
 
 ### 🌐 Connect with me
 <div>
-  <a href="https://your-portfolio.com">
+  <a href="[https://your-portfolio.com](https://rsantanadml.github.io/rsantana-portfolio/)">
   <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/rafaelsantanadml/">
